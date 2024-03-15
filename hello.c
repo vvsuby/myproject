@@ -2,10 +2,19 @@
 
 int main()
 {
-    printf("Hello World\n");
-    printf("slay the spire\n");
-    printf("cyberpunk\n");
-    print("git is so hard")
+
+    print("git is so hard");
+    print("git is so hard2");
+
+    print("git is so hard3");
+
+    print("git is so hard4");
+
+    print("git is so hard5");
+
+    print("git is so hard6");
+
+
 
     return 0;
 }
