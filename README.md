@@ -20,7 +20,8 @@ Team: Vision amateur
 
 ## High Level Design
 
-* ![alt text](<Untitled Diagram.jpg>)
+* ![Untitled Diagram](https://github.com/vvsuby/myproject/assets/158803336/108e56d3-af54-4d96-ab7b-10c3f4d7289b)
+
 
 ## Clone code
 
